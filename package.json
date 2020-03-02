@@ -1,0 +1,28 @@
+{
+  "name": "amazon url scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrap",
+    "amazon scrap",
+    "amazon scrapper",
+    "cheerio scrap",
+    "node scrapper",
+    "scrapping amazon"
+  ],
+  "author": "Kaiowa",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-tableparser": "^1.0.1",
+    "mysql": "^2.18.1",
+    "serverless-mysql": "^1.5.3",
+    "sql-template-strings": "^2.2.2",
+    "underscore": "^1.9.2"
+  }
+  
+}
